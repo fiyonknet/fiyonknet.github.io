@@ -1,12 +1,6 @@
----
-title: "Tığ İşi Yıldız Lifler"
-date: 2008-07-03
-type: post
-tags: []
-views_total: 0
-views_single: 0
-comment_count: 6
----
+# Tığ İşi Yıldız Lifler
+
+_2008-07-03_
 
 Rukiye Abla'da fotoğafını çektiğim liflerin 3. grubunu ekliyorum. Bir püsküllü lif grubu daha var eklemem gereken. [Sevgili Begüm geçenlerde yorumunda lif örneği isteyince](http://www.fiyonk.net/blog/2007/12/10/desenli-lif-ornekleri-1-gul-lale-gonca-cam-agaci/#comment-36764) elimdeki örnekleri derleyip toparladım. [Desenli lif örnekleri için tıklayın](http://www.fiyonk.net/blog/2007/12/10/desenli-lif-ornekleri-1-gul-lale-gonca-cam-agaci/). [Kalpli ve yıldızlı lif örnekleri için tıklayın](http://www.fiyonk.net/blog/2007/11/20/2007nin-en-cok-satan-lif-ornekleri/).
 
@@ -24,32 +18,3 @@ Bu lif benim anladığım kadarıyla motif motif örülmüş. 7 motif örülüp 
 
 Son lif örneğimiz ise kalpli bir lif örneği. Yıldız örneğiyle kalp şeklinde örülmüş. Kenarlarından oyası geçilmiş.
 [![tığ işi kalpli lif](http://farm4.static.flickr.com/3171/2632147964_4af4a9d3bd.jpg)](http://www.flickr.com/photos/fiyonk/2632147964/)
-
----
-
-## Comments (6)
-
-**beyza** · 2009-02-18
-
-lif yapıp satma işi aranıyor
-
-**gülsen** · 2009-11-11
-
-lif örüp satmak istiyorum
-
-**hafize** · 2010-01-29
-
-güzel olmuş ama ben yıldız yapmayı bilmiyorum.uğraşıyorum ama olmuyor.yıldız nasıl örülüyor
-
-**berk** · 2010-02-14
-
-nasıl örulduğu hakkında bilgi istiyoruz
-
-**sena** · 2010-02-19
-
-arkadaşlar bilen varsa yollasın nasılllllll yapıldığını
-
-**gülçin** · 2010-03-15
-
-hakkaten ya bilgi yazn
-
