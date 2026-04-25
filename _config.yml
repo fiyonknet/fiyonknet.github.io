@@ -3,10 +3,7 @@ description: My blog
 url: "https://oakasapoglu.github.io"
 baseurl: "/fiyonkk"
 
-# theme: minima
-theme: jekyll-theme-midnight
-
-
+theme: minima
 
 markdown: kramdown
 kramdown:
