@@ -1,0 +1,15 @@
+title: Fiyonk
+description: My blog
+url: "https://username.github.io"
+baseurl: "/fiyonk"
+
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
