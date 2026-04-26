@@ -1,5 +1,5 @@
-# fiyonkk
+# fiyonknet
 
 
 
-[Site is there](https://oakasapoglu.github.io/fiyonkk)
+[Site is there](https://fiyonknet.github.io)
